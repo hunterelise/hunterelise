@@ -1,19 +1,14 @@
-# Hi! (^▽^)ﾉ
+Hi! (^▽^)ﾉ
 
-My name is Elise, and I make games! 
+My name is Elise, and I study Games Development at university. 
 
-- I'm currently studying Games Development at university.  
-- You can contact me via email (hunter.elise@outlook.com) or [LinkedIn](https://www.linkedin.com/in/hunterelise/).  
+- Contact me via email (hunter.elise@outlook.com), Discord (hunterelise) or [LinkedIn](https://www.linkedin.com/in/hunterelise/).
 - My portfolio is currently a work in progress.
-- Languages and tools:
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
+Languages and tools I use:
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/c-sharp-logo.png" alt="C#" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png" alt="Unity" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/unreal-engine.png" alt="Unreal" width="40" height="40"/>
 </p>
-
-
