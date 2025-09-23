@@ -9,7 +9,7 @@ My name is Elise, and I make games!
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="48" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" />
 </p>
 
 
