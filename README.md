@@ -7,9 +7,13 @@ My name is Elise, and I make games!
 - My portfolio is currently a work in progress.
 - Languages and tools:
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" />
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a> 
 </p>
 
 
