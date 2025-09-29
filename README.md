@@ -1,6 +1,6 @@
 Hi! (^▽^)ﾉ
 
-My name is Elise, and I study Games Development at university. 
+My name is Elise, and I study games development at university. 
 
 - Contact me via email (hunter.elise@outlook.com), Discord (hunterelise) or [LinkedIn](https://www.linkedin.com/in/hunterelise/).
 - Completed projects will be available on [Itch.io](https://hunterelise.itch.io/).
