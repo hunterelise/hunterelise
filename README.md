@@ -1,15 +1,14 @@
 Hi! (^▽^)ﾉ
 
-My name is Elise, and I study games development at university. 
+ENG: I’m a game programmer working mainly in Unity (C# / JavaScript), with a strong focus on gameplay systems and AI behaviours. I create games of all kinds, from polished portfolio projects to smaller prototypes and experiments, and I somehow always end up including rabbits in everything. ♡
 
-- Contact me via email (hunter.elise@outlook.com), Discord (hunterelise) or [LinkedIn](https://www.linkedin.com/in/hunterelise/).
-- Completed projects will be available on [Itch.io](https://hunterelise.itch.io/).
-- My portfolio is currently a work in progress.
+FR: Je suis programmeuse de jeux vidéo et je travaille principalement avec Unity (C# / JavaScript), avec un fort accent sur les systèmes de gameplay et les comportements d’IA. Je crée des jeux de toutes sortes, des projets de portfolio aboutis aux prototypes et expérimentations plus modestes, et je finis toujours par inclure des lapins un peu partout. ♡
 
-Languages and tools I use:
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/c-sharp-logo.png" alt="C#" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png" alt="Unity" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/unreal-engine.png" alt="Unreal" width="40" height="40"/>
+<p><a href="http://www.linkedin.com/in/hunterelise/" target="_blank">LinkedIn</a>&nbsp;| <a target="_blank" href="https://hunterelise.itch.io/">Itch.io</a>&nbsp;| Email: hunter.elise@outlook.com | Discord: hunterelise</p>
+<p>My portfolio is currently a work in progress /&nbsp;Mon portfolio est actuellement en cours.</p>
+<p>Languages and tools I use /&nbsp;Langages et outils que j'utilise&nbsp;:</p>
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/c-sharp-logo.png">&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/javascript.png">&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png">
 </p>
